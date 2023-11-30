@@ -1,3 +1,5 @@
 "use strict";
-let age = 24;
+let sales = 123456789;
+let course = "Typescript";
+let is_published = true;
 //# sourceMappingURL=index.js.map
